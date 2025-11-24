@@ -39,6 +39,10 @@ nav button{
     border-radius: 4px;
     cursor: pointer;
 }
+.signup-btn a{
+    color:white;
+    text-decoration:none;
+}
 .language-btn{
     display: inline-flex;
     align-items: center;
